@@ -1,0 +1,26 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: NECe_EB14
+type: parsed
+protocol: NECext
+address: 41 EA 00 00
+command: 14 EB 00 00
+# 
+name: NECe_EA15
+type: parsed
+protocol: NECext
+address: 41 EA 00 00
+command: 15 EA 00 00
+# 
+name: NECe_B748
+type: parsed
+protocol: NECext
+address: 41 EA 00 00
+command: 48 B7 00 00
+# 
+name: NECe_BE41
+type: parsed
+protocol: NECext
+address: 41 EA 00 00
+command: 41 BE 00 00
